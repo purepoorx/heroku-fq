@@ -1,5 +1,5 @@
 ## v2ray-heroku
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/yin2na/heroku-daili.git)
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/yin2na/heroku-fq.git)
 
 ### heroku上部署v2ray
 - [x] 支持VMess和VLESS两种协议
